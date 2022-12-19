@@ -29,3 +29,5 @@ Run the Remix app locally:
 ```sh
 npx nx run website:dev
 ```
+
+Deploy to Vercel, see https://vercel.com/mylesoconnor/nx-remix-vercel-demo.
